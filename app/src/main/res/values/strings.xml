@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebCrawler</string>
+    <string name="open_url">Go!</string>
+    <string name="export_label">Export</string>
+</resources>
